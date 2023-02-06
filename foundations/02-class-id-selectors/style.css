@@ -3,16 +3,16 @@ color:blue;
 font-size:36px;
 }
 
-.odd{
-background-color:light-pink;
+.odd {
+background-color:pink;
 }
 
-.third{
+.third {
 font-size:24px;
 }
 
 #green {
-background-color:light-green;
+background-color:green;
 font-size:24px;
 font-weight:bold;
 }
